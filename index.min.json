@@ -1,0 +1,14 @@
+{
+  "name": "AniGo",
+  "pkg": "eu.kanade.tachiyomi.animeextension.en.myanime",
+  "apk": "aniyomi-en.myanime-v1.0.apk",
+  "lang": "en",
+  "version": "1.0",
+  "sources": [
+    {
+      "name": "AniGo",
+      "lang": "en",
+      "baseUrl": "https://anigo.to"
+    }
+  ]
+}
